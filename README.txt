@@ -10,3 +10,7 @@ PACKWISE PWA — INSTALLATION
 The app works offline after the first successful visit. Trip data stays in the browser storage on that device and is not synced. Opening the hosted PWA uses different storage from the old downloaded HTML file, so existing saved trips do not migrate automatically. Keep your old file until you have copied any lists you need.
 
 For updates, upload revised files and change CACHE version in sw.js.
+
+LICENSE
+
+Packwise is licensed under the PolyForm Noncommercial License 1.0.0 (see LICENSE). You may use, modify and share it for noncommercial purposes only. Commercial use requires separate permission from the copyright holder.
